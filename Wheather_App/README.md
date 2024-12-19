@@ -1,3 +1,7 @@
+This the Weather app which have 3 functionalities of sign / login / and realtime weather use open weather API using Reactjs,SQl,nodejs. For using this first create the database name as authentication and ready to go. 
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
